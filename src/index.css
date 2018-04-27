@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#mainPanel {
+  margin: auto;
+  width: auto;
+  border: 3px solid #3f87a6;
+  padding: 10px;
+}
+#login {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #3f87a6;
+  padding: 10px;
+}
+#LeftNav {
+  width: 20%;
+}
+#CenterPanel {
+  margin-left: 20%;
+}
